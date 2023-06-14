@@ -42,3 +42,6 @@ O projeto de desenvolvimento da aplicação de doação de agasalhos com geoloca
 - **Banco de Dados**: O projeto utilizará PostgreSQL para armazenar as informações dos usuários, pontos de coleta e doações realizadas.
 
 Essas tecnologias foram selecionadas para garantir um desenvolvimento eficiente, escalável e seguro da aplicação de doação de agasalhos com geolocalização.
+
+## Quer participar ativamente do projeto? 
+Responda esse [formulário](https://forms.gle/UJ9AwBKbW5a5CNzx8) para conhecermos mais sobre você!
